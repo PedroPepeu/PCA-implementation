@@ -4,7 +4,7 @@ Estrutura de Arquivos para um Projeto de PCA em Python
 
 Aqui está uma estrutura de arquivos organizada para seu projeto de cadeira de inteligência artificial, focando na implementação do PCA:
 
-'''
+```
 /projeto_pca/
 │
 ├── pca/
@@ -28,7 +28,7 @@ Aqui está uma estrutura de arquivos organizada para seu projeto de cadeira de i
 │
 ├── requirements.txt            # Dependências do projeto
 └── README.md                   # Descrição geral do projeto
-'''
+```
 
 Detalhamento dos Arquivos Principais
 1. pca/my_pca.py (Implementação principal)
